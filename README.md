@@ -54,6 +54,11 @@ This repository is published as a portfolio showcase of numerical modeling work 
 * **Primary Script:** `natural_convective_flow.m`
 * **Outputs:** Computes non-dimensional velocity fields, temperature distributions, vorticity, and local/average Nusselt numbers ($Nu$).
 
+## 👥 Acknowledgements & Attribution
+
+* **Supervisor / Original Framework:** Developed under the supervision of **Prof. Imran Akhtar, PhD** (Department of Mechanical Engineering, NUST, Islamabad | `iakhtar@sines.nust.edu.pk`).
+* **Modifications & Thesis Research:** Adapted, extended, and executed by **Wajeeha Siddiqui** for MS thesis research on parametric Rayleigh-Bénard Convection ($1700 \le Ra \le 20000$ and $1 \le AR \le 100$).
+
 ## 📄 License & Rights
 
 © Wajeeha Siddiqui. All rights reserved.  
