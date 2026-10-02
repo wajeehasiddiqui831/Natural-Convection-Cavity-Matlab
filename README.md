@@ -62,4 +62,4 @@ This repository is published as a portfolio showcase of numerical modeling work 
 ## 📄 License & Rights
 
 © Wajeeha Siddiqui. All rights reserved.  
-This repository and its contents are for portfolio and academic viewing purposes only. No permission is granted to reproduce, distribute, or run this code without explicit consent from the author.
+This repository and its contents are for portfolio and academic viewing purposes only. No permission is granted to reproduce, distribute, or use this code without explicit consent from the author.
