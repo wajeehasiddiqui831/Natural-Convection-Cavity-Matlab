@@ -46,7 +46,15 @@ Velocity and temperature fields illustrating secondary cells and instabilities a
 ![Local Nu Number](Local%20Nu%20Number%20AR%2020%20Ra%208000.jpg)  
 *Local Nusselt number distribution along height for AR = 20, Ra = 8000.*
 
-## 🛠 Usage
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/wajeehasiddiqui831/Natural-Convection-Cavity-Matlab.git](https://github.com/wajeehasiddiqui831/Natural-Convection-Cavity-Matlab.git)
+## 🛠 Code & Simulation Overview
+
+This repository is published as a portfolio showcase of numerical modeling work for MS thesis research. 
+
+* **Language:** MATLAB
+* **Primary Script:** `natural_convective_flow.m`
+* **Outputs:** Computes non-dimensional velocity fields, temperature distributions, vorticity, and local/average Nusselt numbers ($Nu$).
+
+## 📄 License & Rights
+
+© Wajeeha Siddiqui. All rights reserved.  
+This repository and its contents are for portfolio and academic viewing purposes only. No permission is granted to reproduce, distribute, or run this code without explicit consent from the author.
