@@ -46,6 +46,32 @@ Velocity and temperature fields illustrating secondary cells and instabilities a
 ![Local Nu Number](Local%20Nu%20Number%20AR%2020%20Ra%208000.jpg)  
 *Local Nusselt number distribution along height for AR = 20, Ra = 8000.*
 
+## 📊 Results & Validation
+
+### Model Validation
+The present numerical solver was validated against the experimental and numerical benchmark results of **Lartigue et al. (2000)** for multicellular natural convection in high aspect ratio cavities. As shown in **Table 1**, the present average Nusselt number ($\overline{Nu}$) predictions demonstrate strong agreement with reference data across all tested Rayleigh numbers, with a maximum deviation of less than $2.55\%$.
+
+**Table 1: Average Nusselt Number Comparison ($\overline{Nu}$)**
+
+| $Ra$ | Present Study | Ref. [1] (Lartigue et al.) | % Difference |
+| :---: | :---: | :---: | :---: |
+| **3550** | 1.0910 | 1.064 | 2.54% |
+| **6800** | 1.1860 | 1.167 | 1.63% |
+| **10102** | 1.3147 | 1.292 | 1.76% |
+| **14200** | 1.4160 | 1.388 | 2.02% |
+| **17750** | 1.4987 | 1.484 | 0.99% |
+
+*Ref [1]: Lartigue B., Lorente S., Bourret B., "Multicellular Natural Convection in a High Aspect Ratio Cavity: Experimental and Numerical Results", Int. J. Heat Mass Transfer 43 (2000) 3157-3170. DOI: [10.1016/S0017-9310(99)00362-2](https://doi.org/10.1016/S0017-9310(99)00362-2)*
+
+---
+
+## 📜 Associated Publication
+
+This numerical work and parametric study contributed to the following ASME conference publication:
+
+* **Siddiqui, W., et al.**, *"Nusselt Number Dependence on Aspect Ratio and Rayleigh Number: A Numerical Study of Rayleigh–Bénard Instability"*, ASME 2022 Fluids Engineering Division Summer Meeting (FEDSM 2022).  
+  **DOI:** [10.1115/FEDSM2022-87897](https://doi.org/10.1115/FEDSM2022-87897)
+
 ## 🛠 Code & Simulation Overview
 
 This repository is published as a portfolio showcase of numerical modeling work for MS thesis research. 
